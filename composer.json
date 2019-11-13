@@ -2,9 +2,6 @@
     "name": "ryp/utils",
     "description": "ryp utils",
 	"version":"1.4.2",
-    "type":"library",
-    "license":"MIT",
-    "minimum-stability": "dev",
     "authors": [
         {
             "name": "ryp ecpei",
@@ -15,11 +12,6 @@
         "php":">=7.0"
     },
     "autoload":{
-        "psr-4":{
-            "Ryp\\Utils\\":"src/"
-        }
-    },
-    "autoload-dev":{
         "psr-4":{
             "Ryp\\Utils\\":"src/"
         }
