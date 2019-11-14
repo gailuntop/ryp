@@ -9,7 +9,7 @@
     "require": {
         "php":">=7.0"
     },
-    "minimum-stability": "stable",
+    "version":"dev-master",
     "autoload":{
         "psr-4":{
             "Ryp\\Utils\\":"src/"
